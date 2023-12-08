@@ -115,7 +115,7 @@ iframe {
 /*NEWS
 -----------------------*/
 #news{
-    background-image: url(../images/news-bg.jpg);
+    background-image: url("https://github.com/sakusaku04/S/blob/main/images/news-bg.jpg?raw=true");
     height: 270px;
     margin-bottom: 40px;
 }
