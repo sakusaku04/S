@@ -94,7 +94,7 @@ iframe {
 /*HOME
 --------------*/
 #home{
-    background-image: url(https://github.com/sakusaku04/S/blob/main/images/main-bg.jpg?raw=true);
+    background-image: url("https://github.com/sakusaku04/S/blob/main/images/main-bg.jpg?raw=true");
     min-height: 100vh;
 }
 #home.page-title{
